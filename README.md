@@ -1,6 +1,6 @@
-# MLOOP
+# MLPLAYER
 
-MLOOP is an open-source Raspberry Pi video looper for galleries, museums, exhibitions, and kiosk installations. It boots directly into fullscreen media playback and provides a no-keyboard configuration mode controlled through HDMI unplug/replug gestures.
+MLPLAYER is an open-source Raspberry Pi video looper for galleries, museums, exhibitions, and kiosk installations. It boots directly into fullscreen media playback and provides a no-keyboard configuration mode controlled through HDMI unplug/replug gestures.
 
 ## Project Status
 
